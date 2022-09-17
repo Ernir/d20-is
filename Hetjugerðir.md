@@ -2,6 +2,29 @@
 
 ## Barbari
 
+| Stig | Hæfnibónus | Einkenni                     | Bræðisköst | Skaði í bræði |
+|:----:|:----------:|:-----------------------------|:----------:|:-------------:|
+| 1.   | +2         | Bræði, verjulausar varnir    | 2          | +2            |
+| 2.   | +2         | Kærulausar árásir, hættuskyn | 2          | +2            |
+| 3.   | +2         | Vegferð                      | 3          | +2            |
+| 4.   | +2         | Hæfileikaaukning             | 3          | +2            |
+| 5.   | +3         | Aukaárás, snöggar hreyfingar | 3          | +2            |
+| 6.   | +3         | Einkenni vegferðar           | 4          | +2            |
+| 7.   | +3         | Villt eðlishvöt              | 4          | +2            |
+| 8.   | +3         | Hæfileikaaukning             | 4          | +2            |
+| 9.   | +4         | Grimmur árangur (1 teningur) | 4          | +3            |
+| 10.  | +4         | Einkenni vegferðar           | 4          | +3            |
+| 11.  | +4         | Vægðarlaus bræði             | 4          | +3            |
+| 12.  | +4         | Hæfileikaaukning             | 5          | +3            |
+| 13.  | +5         | Grimmur árangur (2 teningar) | 5          | +3            |
+| 14.  | +5         | Einkenni vegferðar           | 5          | +3            |
+| 15.  | +5         | Linnulaus bræði              | 5          | +4            |
+| 16.  | +5         | Hæfileikaaukning             | 5          | +4            |
+| 17.  | +6         | Grimmur árangur (3 teningar) | 6          | +4            |
+| 18.  | +6         | Óslítandi styrkur            | 6          | +4            |
+| 19.  | +6         | Hæfileikaaukning             | 6          | +4            |
+| 20.  | +6         | Fítonskraftur                | Ótakmörkuð | +4            |
+
 ### Heilsa
 
 **Heilsuteningur:** 1d12 fyrir hvert barbarastig
