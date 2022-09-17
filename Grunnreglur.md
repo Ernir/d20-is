@@ -389,7 +389,7 @@ Bakgrunnurinn telur upp möguleg persónueinkenni fyrir persónuna. Velja má pe
 
 ### Að sérsníða bakgrunn
 
-Sníða má til bakgrunn til að hann passi betur við persónuna eða spilaheiminn (e. _the campaign setting_). Til að búa til eigin bakgrunn má velja bakgrunn og skipta út eiginleika fyrir annan, velja tvær kunnáttur, og samtals tvær hæfnir í áhöldum eða tungumálum sem finna má í öðrum bakgrunnum. Nota má útbúnaðinn úr bakgrunninum eða eyða peningnum í útbúnað. Að lokum skal velja tvö persónuleikaeinkenni, eina hugsjón, ein tengsl, og einn galla. Ef enginn eiginleiki finnst sem passar skaltu vinna með stjórnanda til að búa slíkan til.
+Sníða má til bakgrunn til að hann passi betur við persónuna eða spilaheiminn (e. _the campaign setting_). Til að búa til eigin bakgrunn má velja bakgrunn og skipta út einkennum fyrir önnur, velja tvær kunnáttur, og samtals tvær hæfnir í áhöldum eða tungumálum sem finna má í öðrum bakgrunnum. Nota má útbúnaðinn úr bakgrunninum eða eyða peningnum í útbúnað. Að lokum skal velja tvö persónuleikaeinkenni, eina hugsjón, ein tengsl, og einn galla. Ef engin einkenni finnas sem passar skaltu vinna með stjórnanda til að búa slíkan til.
 
 ### Meðhjálpari
 
@@ -401,7 +401,7 @@ Veldu guð, guðafjölskyldu, eða annars konar guðlega veru af lista stjórnan
 * **Tungumál:** Tvö að eigin vali
 * **Útbúnaður:** Helgitákn (sem þú fékkst að gjöf þegar þú gekkst í regluna), bænabók eða bænahjól, reykelsi, kjóll, almúgaföt, poki með 15 gullpeningum.
 
-#### Eiginleiki: Hlífiskjöldur trúarinnar
+#### Einkenni: Hlífiskjöldur trúarinnar
 
 Meðhjálparar njóta virðingar þeirra sem stunda sömu trúarbrögð, og þú getur framkvæmt helgiathafnir guðs þíns. Þú og ferðafélagar þínir geta gengið að lækningum og aðhlynningum sem vísum þegar þið heimsækið hof og helgiskrín tileinkuð trúnni, þó að þú þurfið sjálf að skaffa allan efnivið sem þarf fyrir galdra. Trúarsystkini þín eru tilbúin til að sjá þér (og eingöngu þér) fyrir einföldu uppihaldi.
 
