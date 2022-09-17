@@ -2,6 +2,8 @@
 
 ## Barbari
 
+(e. _Barbarian_)
+
 | Stig | Hæfnibónus | Einkenni                     | Bræðisköst | Skaði í bræði |
 |:----:|:----------:|:-----------------------------|:----------:|:-------------:|
 | 1.   | +2         | Bræði, verjulausar varnir    | 2          | +2            |
@@ -136,3 +138,47 @@ Sumir barbarar fyllast bræði af ástæðu - til að geta beitt meira ofbeldi. 
 #### Hefnd
 
 Á 14. stigi, þegar vera innan 1.5 metra skaðar þig, máttu nota viðbragð (e. _reaction_) til að gera árás með návígisvopni gegn þeirri veru.
+
+## Drúíði
+
+(e. _druid_)
+
+## Helgikempa
+
+(e. _paladin_)
+
+## Klerkur
+
+(e. _cleric_)
+
+## Munkur
+
+(e. _monk_)
+
+## Rekki
+
+(e. _ranger_)
+
+## Seiðkvár
+
+(e. _sorcerer_)
+
+## Seiðskratti
+
+(e. _warlock_)
+
+## Skáld
+
+(e. _bard_)
+
+## Stríðskappi
+
+(e. _fighter_)
+
+## Vitki
+
+(e. _wizard_)
+
+## Þrjótur
+
+(e. _rogue_)

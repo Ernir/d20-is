@@ -126,31 +126,6 @@ Persónan getur talað, skrifað og lesið ákveðin tungumál sem fara eftir ky
 
 Sumir kynþættir greinast í undirkynþætti. Undirkynþættir hafa eiginleika aðalkynþáttarins auk þeirra sem teknir eru fram fyrir undirkynþáttinn. Sambönd á milli kynþátta eru á alla vegu.
 
-### Dvergar
-
-#### Eiginleikar dverga
-
-Dvegar hafa ýmsa meðfædda hæfileika sem eru veigamiklir í þeirra samfélagi.
-
-* **Aukahæfileikar.** Hreysti dvergsins eykst um 2.
-* **Aldur.** Dvergar fullorðnast á svipuðum hraða 
-* **Innræti.** Flestir dvergar hneigjast til reglu, hafandi bjargfasta trú á skipulegu samfélagi. Þeir hneigjast líka til góðs (e. _good_), sýna drengskap og trúa að allt fólk eigi að njóta ávaxta réttláts skipulags.
-* **Stærð.** Dvergar eru á milli 120 og 150 sentímetrar á hæð og um 70 kílóa þungir að meðaltali. Þeir eru af miðstærð.
-* **Hraði.** Grunngönguhraði dverga er 7.5 metrar. Hraði þeirra minnkar ekki við að bera þungar brynjur (e. _heavy armor_).
-* **Nætursjón.** (e. _Darkvision_) Dvergar hafa aðlagast lífi neðanjarðar, svo þeir sjá vel í myrkri og rökkri. Þeir sjá í rökkri innan 18 metra jafn vel og í björtu, og í myrkri jafn vel og í rökkri. Dvergar greina ekki litaskil í myrkri, nætursjónin er svarthvít.
-* **Dvergnesk þrautseigja.** (e. _dwarven resilience_) Dvergar hafa meðbyr á varnarköstum gegn eitri, og eru þolnir (e. _resistance_) gegn eiturskaða.
-* **Dvergnesk bardagaþjálfun.** (e. _dwarven combat training_) dvergar eru hæfir (e. have _proficiency_) í notkun vígaxa (e. _battle axe_), handaxa (e. _hand axe_), léttra hamra (e. _light hammer_) og stríðshamra (e. _warhammer_).
-* **Hæfni í notkun áhalda.** (e. _tool proficiency_) Dvergar eru hæfir í notkun handverkstóla (e. _artisan's tools_) að eigin vali, t.d. verkfærum smiða eða múrara, eða bruggáhöldum.
-* **Þekking á steinum.** (e. _stonecunning_) Dvergar teljast hæfir í greindarköstum sem tengjast sögukunnáttu þegar kemur að uppruna steinsmíði, og bæta við tvöföldum hæfnibónus í slíkum aðstæðum.
-* **Tungumál.** Dvergar geta talað, lesið og skrifað samtungu (e. _Common_) og dvergnesku (e. _dwarvish_). Dvergneska er full af hörðum samhljóðum og kokhljóðum, og hreimur dverga ber þess merki þegar þeir tala önnur tungumál.
-
-#### Hæðadvergar
-
-Hæðadvergar eru gæddir skörpum skilningarvitum, djúpu innsæi og ótrúlegri þrautseigju.
-
-* **Aukahæfileikar.** Viska dvergsins eykst um 1.
-* **Dvergnesk seigla.** Heilsa (e. _hit points_) þín eykst um 1, og um einn til viðbótar í hvert skipti sem þú nærð nýju stigi.
-
 ### Álfar
 
 Álfar hafa fjölbreytta náttúrulega hæfileika, og aðra sem þeir hafa fágað og fínpússað um árþúsundir.
@@ -175,37 +150,28 @@ Háálfar eru skarpir og fjölkunnugir. Í mörgum spunaspilsheimum eru tvær ge
 * **Galdrabragð.** (e. _cantrip_) Háálfar kunna eitt galdrabragð að eigin vali af galdramannalistanum. Greind er hæfileikinn sem stýrir galdragetu þeirra.
 * **Aukatungumál.** Háálfar geta talað, lesið og skrifað eitt tungumal að eigin vali til viðbótar.
 
-### Stuttlungar
+### Dvergar
 
-Stuttlungar (e. _halfling_) eiga margt sameiginlegt hvor með öðrum.
+Dvegar hafa ýmsa meðfædda hæfileika sem eru veigamiklir í þeirra samfélagi.
 
-* **Aukahæfileikar.** Lipurð stuttlungsins eykst um 2.
-* **Aldur.** Stuttlungar verða fullorðnir um tvítugt og ná oftast hálfri annarri öld í aldri.
-* **Innræti.** Flestir stuttlungar hneigjast til reglu og góðs. Almennt eru þeir góðhjartaðir og hlýir, mega ekkert aumt sjá og umbera ekki kúgun. Þeir eru líka vanafastir og halda mikið í hefðir, og reiða sig á nærsamfélagið.
-* **Stærð.** Stuttlungar eru um 90 sentímetrar á hæð og vega um 20 kíló. Þeir eru smáir (e. _small_).
-* **Hraði.** Grunngönguhraði stuttlunga er 7.5 metrar.
-* **Heillastjarna.** Þegar þú færð upp 1 á d20 í árásarkasti, hæfileikakasti eða varnarkasti máttu kasta aftur. Þú verður að nota útkomu seinna kastsins.
-* **Hugrekki.** Þú hefur meðbyr á varnarköstum gegn ótta (e. _being frightened_).
-* **Fimi stuttlunga.** Þú mátt færa þig í gegnum reit allra vera sem eru stærri en þú.
-* **Tungumál.** Stuttlungar geta talað, lesið og skilið samtungu og stuttlungamál. Stuttlungamálinu er ekki beinlínis haldið leyndu, en stuttlungum er illa við að deila því. Þeir skrifa lítið og hafa litla hefð fyrir rituðum sögum, en munnlegar hefðir þeirra eru þeim mun meiri. Nær allir stuttlungar læra samtungu til að geta rætt við fólkið sem þeir deila með löndum eða sem þeir ferðast í gegnum.
+* **Aukahæfileikar.** Hreysti dvergsins eykst um 2.
+* **Aldur.** Dvergar fullorðnast á svipuðum hraða 
+* **Innræti.** Flestir dvergar hneigjast til reglu, hafandi bjargfasta trú á skipulegu samfélagi. Þeir hneigjast líka til góðs (e. _good_), sýna drengskap og trúa að allt fólk eigi að njóta ávaxta réttláts skipulags.
+* **Stærð.** Dvergar eru á milli 120 og 150 sentímetrar á hæð og um 70 kílóa þungir að meðaltali. Þeir eru af miðstærð.
+* **Hraði.** Grunngönguhraði dverga er 7.5 metrar. Hraði þeirra minnkar ekki við að bera þungar brynjur (e. _heavy armor_).
+* **Nætursjón.** (e. _Darkvision_) Dvergar hafa aðlagast lífi neðanjarðar, svo þeir sjá vel í myrkri og rökkri. Þeir sjá í rökkri innan 18 metra jafn vel og í björtu, og í myrkri jafn vel og í rökkri. Dvergar greina ekki litaskil í myrkri, nætursjónin er svarthvít.
+* **Dvergnesk þrautseigja.** (e. _dwarven resilience_) Dvergar hafa meðbyr á varnarköstum gegn eitri, og eru þolnir (e. _resistance_) gegn eiturskaða.
+* **Dvergnesk bardagaþjálfun.** (e. _dwarven combat training_) dvergar eru hæfir (e. have _proficiency_) í notkun vígaxa (e. _battle axe_), handaxa (e. _hand axe_), léttra hamra (e. _light hammer_) og stríðshamra (e. _warhammer_).
+* **Hæfni í notkun áhalda.** (e. _tool proficiency_) Dvergar eru hæfir í notkun handverkstóla (e. _artisan's tools_) að eigin vali, t.d. verkfærum smiða eða múrara, eða bruggáhöldum.
+* **Þekking á steinum.** (e. _stonecunning_) Dvergar teljast hæfir í greindarköstum sem tengjast sögukunnáttu þegar kemur að uppruna steinsmíði, og bæta við tvöföldum hæfnibónus í slíkum aðstæðum.
+* **Tungumál.** Dvergar geta talað, lesið og skrifað samtungu (e. _Common_) og dvergnesku (e. _dwarvish_). Dvergneska er full af hörðum samhljóðum og kokhljóðum, og hreimur dverga ber þess merki þegar þeir tala önnur tungumál.
 
-#### Léttfetar
+#### Hæðadvergar
 
-Léttfetar eiga auðvelt með að leynast og hverfa sjónum, jafnvel með því að fela sig bak við annað fólk. Þeir eru vingjarnlegir og ná almennt vel saman við annað fólk. Léttfetar eru líklegri en aðrir stuttlungar til að fyllast ferðaþrá, og búa oft meðal annarra kynþátta eða taka upp hirðingjalífsstíl.
+Hæðadvergar eru gæddir skörpum skilningarvitum, djúpu innsæi og ótrúlegri þrautseigju.
 
-* **Aukahæfileikar.** Þokki stuttlungsins eykst um 1.
-* **Fæddir til að felast.** Stuttlungurinn getur reynt að fela sig þó ekkert byrgi sjón nema önnur vera sem er stærri en þú.
-
-### Mannfólk
-
-Það er erfitt að alhæfa um mannfólk (e. _humans_), en mennsk persóna hefur eftirfarandi eiginleika:
-
-* **Aukahæfileikar.** Allir hæfileikar mannfólks aukast um 1.
-* **Aldur.** Mannfólk verður fullorðið seint á táningsárunum og lifa tæpa öld.
-* **Innræti.** Mannfólk hneigist ekki til neins ákveðins innrætis. Finna má hin verstu og hin bestu meðal þeirra.
-* **Stærð.** Mannfólk er mjög mismunandi að hæð og líkamsgerð. Sumt nær rétt svo 150 sentímetrum, annað nær vel yfir 180 sentímetra. Mannfólk er af miðstærð.
-* **Hraði.** Grunngönguhraði mannfólks er 9 metrar.
-* **Tungumál.** Mannfólk getur talað, lesið og skrifað samtungu og eitt mál til viðbótar. Mannfólk lærir oftast tungumál þeirra kynþátta sem þau versla við, jafnvel framandi mállýskur. Mannfólk slettir og notar tökuorð - orknesk blótsyrði, álfnesk tónlistarhugtök, dvergnesk orð sem tengjast hernaði, og þar fram eftir götunum.
+* **Aukahæfileikar.** Viska dvergsins eykst um 1.
+* **Dvergnesk seigla.** Heilsa (e. _hit points_) þín eykst um 1, og um einn til viðbótar í hvert skipti sem þú nærð nýju stigi.
 
 ### Fáfnisniðjar
 
@@ -303,13 +269,47 @@ Helniðjar (e. _tieflings_) deila ýmsum eiginleikum þökk sé áum þeirra úr
 * **Arfleifð vítis.** Helniðjar kunna bragðið (e. _cantrip_) Ægivald (e. _thaumaturgy_). Þegar hann nær þriðja stigi getur hann beitt (e. _cast_) galdrinum Vítislogar (e. _hellish rebuke_) sem annars hrings galdri einu sinni,getan endurnýjast eftir að hann hefur hvílst um langa hríð. Þegar hann nær fimmta stigi getur hann beitt galdrinum Myrkur (e. _darkness_) einu sinni, getan endurnýjast eftir að hann hefur hvílst um langa hríð. Þegar kemur að þessum göldrum er þokki galdrahæfileiki (e. _spellcasting ability_) helniðjans.
 * **Tungumál.** Helniðjar geta talað, lesið og skrifað samtungu og vítismál (e. _infernal_).
 
+### Mannfólk
+
+Það er erfitt að alhæfa um mannfólk, en mennsk persóna hefur eftirfarandi eiginleika:
+
+* **Aukahæfileikar.** Allir hæfileikar mannfólks aukast um 1.
+* **Aldur.** Mannfólk verður fullorðið seint á táningsárunum og lifa tæpa öld.
+* **Innræti.** Mannfólk hneigist ekki til neins ákveðins innrætis. Finna má hin verstu og hin bestu meðal þeirra.
+* **Stærð.** Mannfólk er mjög mismunandi að hæð og líkamsgerð. Sumt nær rétt svo 150 sentímetrum, annað nær vel yfir 180 sentímetra. Mannfólk er af miðstærð.
+* **Hraði.** Grunngönguhraði mannfólks er 9 metrar.
+* **Tungumál.** Mannfólk getur talað, lesið og skrifað samtungu og eitt mál til viðbótar. Mannfólk lærir oftast tungumál þeirra kynþátta sem þau versla við, jafnvel framandi mállýskur. Mannfólk slettir og notar tökuorð - orknesk blótsyrði, álfnesk tónlistarhugtök, dvergnesk orð sem tengjast hernaði, og þar fram eftir götunum.
+
+_Athugasemd um orðanotkun:_ Í þessari þýðingu er greinarmunur gerður á mannfólki (e. _humans_) og mannverum (e. _humanoid_). Mannfólk er fólk eins og við þekkjum það úr raunheimum, mannverur innihalda fleiri furðukynþætti eins og álfa og dverga sem þó svipar til mannfólks.
+
+### Stuttlungar
+
+Stuttlungar (e. _halfling_) eiga margt sameiginlegt hvor með öðrum.
+
+* **Aukahæfileikar.** Lipurð stuttlungsins eykst um 2.
+* **Aldur.** Stuttlungar verða fullorðnir um tvítugt og ná oftast hálfri annarri öld í aldri.
+* **Innræti.** Flestir stuttlungar hneigjast til reglu og góðs. Almennt eru þeir góðhjartaðir og hlýir, mega ekkert aumt sjá og umbera ekki kúgun. Þeir eru líka vanafastir og halda mikið í hefðir, og reiða sig á nærsamfélagið.
+* **Stærð.** Stuttlungar eru um 90 sentímetrar á hæð og vega um 20 kíló. Þeir eru smáir (e. _small_).
+* **Hraði.** Grunngönguhraði stuttlunga er 7.5 metrar.
+* **Heillastjarna.** Þegar þú færð upp 1 á d20 í árásarkasti, hæfileikakasti eða varnarkasti máttu kasta aftur. Þú verður að nota útkomu seinna kastsins.
+* **Hugrekki.** Þú hefur meðbyr á varnarköstum gegn ótta (e. _being frightened_).
+* **Fimi stuttlunga.** Þú mátt færa þig í gegnum reit allra vera sem eru stærri en þú.
+* **Tungumál.** Stuttlungar geta talað, lesið og skilið samtungu og stuttlungamál. Stuttlungamálinu er ekki beinlínis haldið leyndu, en stuttlungum er illa við að deila því. Þeir skrifa lítið og hafa litla hefð fyrir rituðum sögum, en munnlegar hefðir þeirra eru þeim mun meiri. Nær allir stuttlungar læra samtungu til að geta rætt við fólkið sem þeir deila með löndum eða sem þeir ferðast í gegnum.
+
+#### Léttfetar
+
+Léttfetar eiga auðvelt með að leynast og hverfa sjónum, jafnvel með því að fela sig bak við annað fólk. Þeir eru vingjarnlegir og ná almennt vel saman við annað fólk. Léttfetar eru líklegri en aðrir stuttlungar til að fyllast ferðaþrá, og búa oft meðal annarra kynþátta eða taka upp hirðingjalífsstíl.
+
+* **Aukahæfileikar.** Þokki stuttlungsins eykst um 1.
+* **Fæddir til að felast.** Stuttlungurinn getur reynt að fela sig þó ekkert byrgi sjón nema önnur vera sem er stærri en þú.
+
 ## Lýsingar
 
 ### Innræti
 
 Flestar verur innan heimsins hafa innræti (e. _alignment_) sem lýsir siðferðislegum og persónulegum afstöðum þess. Innrætið er samsuða tveggja þátta, annars vegar siðferði (gott, illt, eða hlutlaust) og hins vegar viðhorfi viðkomandi til samfélagsins og skipulags (regla, óreiða eða hlutlaust). Samsetningarnar mynda þar með níu mismunandi innræti.
 
-* Verum sem hneigjast til **reglubundinnar góðmennsku** má treysta til að gera ávallt hið rétta, í samræmi við væntingar samfélagsins. Gulldrekar, helgikempur (e. _paladins_) og flestir dvergar hneigjast til reglubundinnar góðmennsku.
+* Verum sem hneigjast til **reglubundinnar góðmennsku** má treysta til að gera ávallt hið rétta, í samræmi við væntingar samfélagsins. Gulldrekar, helgikempur og flestir dvergar hneigjast til reglubundinnar góðmennsku.
 * Fólk sem hneigist til **hlutlausrar góðmennsku** gerir sitt besta til að hjálpa öðrum í samræmi við þarfir þeirra. Margar himneskar (e. _celestial_) verur, skýjarisar og flestir gnómar hneigjast til hlutlausrar góðmennsku.
 * Verur sem hneigjast til **óreiðubundinnar góðmennsku** hegða sér í samræmi við eigin samvisku án þess að hugsa mikið um hvað öðrum finnst. Kopardrekar, margir álfar og einhyrningar hneigjast til óreiðubundinnar góðmennsku.
 * Einstaklingar sem hneigjast til **reglubundins hlutleysis** haga sér í samræmi við reglur, lög, og persónulegar sannfæringar. Margir vitkar og munkar hneigjast til reglubundins hlutleysis.
@@ -365,7 +365,7 @@ Sum mál eru í raun tungumálahópur sem inniheldur ýmsar mállýskur. T.d. in
 
 ## Bakgrunnar
 
-Allar sögur hefjast einhvers staðar. Bakgrunnur perósnunnar snýst um hvaðan hún kemur, hvernig hún hóf ævintýramennsku, og hver staða hennar er í heiminum. Stríðskappi (e. _fighter_) gæti verið hugrakkur riddari eða þrautreyndur hermaður. Vitkinn gæti verið þulur (e. _sage_) eða handverksmaður. Þrjótur gæti hafa haft til hnífs og skeiðar með því að vinna sem þjófur fyrir gildi eða sýnt listir sínar sem hirðfífl.
+Allar sögur hefjast einhvers staðar. Bakgrunnur perósnunnar snýst um hvaðan hún kemur, hvernig hún hóf ævintýramennsku, og hver staða hennar er í heiminum. Stríðskappi gæti verið hugrakkur riddari eða þrautreyndur hermaður. Vitkinn gæti verið þulur (e. _sage_) eða handverksmaður. Þrjótur gæti hafa haft til hnífs og skeiðar með því að vinna sem þjófur fyrir gildi eða sýnt listir sínar sem hirðfífl.
 
 Bakgrunnurinn segir til um hvernig persónan passar inn í söguna. Mikilvægasta spurningin er - _hvað breyttist_? Af hverju hætti persónan að gera það sem bakgrunnurinn segir til um og byrjaði á ævintýramennsku? Hvaðan kom peningurinn sem hún notaði til að kaupa útbúnaðinn sinn, og ef fjölskylda hennar er rík, hvers vegna hefur persónan ekki meira á milli handanna? Hvað fær persónuna til að skera sig úr meðal annarra sem hafa sama bakgrunn?
 
