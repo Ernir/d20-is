@@ -309,7 +309,7 @@ Helniðjar (e. _tieflings_) deila ýmsum eiginleikum þökk sé áum þeirra úr
 
 Flestar verur innan heimsins hafa innræti (e. _alignment_) sem lýsir siðferðislegum og persónulegum afstöðum þess. Innrætið er samsuða tveggja þátta, annars vegar siðferði (gott, illt, eða hlutlaust) og hins vegar viðhorfi viðkomandi til samfélagsins og skipulags (regla, óreiða eða hlutlaust). Samsetningarnar mynda þar með níu mismunandi innræti.
 
-* Verum sem hneigjast til **reglubundinnar góðmennsku** má treysta til að gera ávallt hið rétta, í samræmi við væntingar samfélagsins. Gulldrekar, helgikempur (e. _paladins_) og flestir dvergar hneigjast til reglubundinnar góðmennsku.
+* Verum sem hneigjast til **reglubundinnar góðmennsku** má treysta til að gera ávallt hið rétta, í samræmi við væntingar samfélagsins. Gulldrekar, helgikempur og flestir dvergar hneigjast til reglubundinnar góðmennsku.
 * Fólk sem hneigist til **hlutlausrar góðmennsku** gerir sitt besta til að hjálpa öðrum í samræmi við þarfir þeirra. Margar himneskar (e. _celestial_) verur, skýjarisar og flestir gnómar hneigjast til hlutlausrar góðmennsku.
 * Verur sem hneigjast til **óreiðubundinnar góðmennsku** hegða sér í samræmi við eigin samvisku án þess að hugsa mikið um hvað öðrum finnst. Kopardrekar, margir álfar og einhyrningar hneigjast til óreiðubundinnar góðmennsku.
 * Einstaklingar sem hneigjast til **reglubundins hlutleysis** haga sér í samræmi við reglur, lög, og persónulegar sannfæringar. Margir vitkar og munkar hneigjast til reglubundins hlutleysis.
@@ -365,7 +365,7 @@ Sum mál eru í raun tungumálahópur sem inniheldur ýmsar mállýskur. T.d. in
 
 ## Bakgrunnar
 
-Allar sögur hefjast einhvers staðar. Bakgrunnur perósnunnar snýst um hvaðan hún kemur, hvernig hún hóf ævintýramennsku, og hver staða hennar er í heiminum. Stríðskappi (e. _fighter_) gæti verið hugrakkur riddari eða þrautreyndur hermaður. Vitkinn gæti verið þulur (e. _sage_) eða handverksmaður. Þrjótur gæti hafa haft til hnífs og skeiðar með því að vinna sem þjófur fyrir gildi eða sýnt listir sínar sem hirðfífl.
+Allar sögur hefjast einhvers staðar. Bakgrunnur perósnunnar snýst um hvaðan hún kemur, hvernig hún hóf ævintýramennsku, og hver staða hennar er í heiminum. Stríðskappi gæti verið hugrakkur riddari eða þrautreyndur hermaður. Vitkinn gæti verið þulur (e. _sage_) eða handverksmaður. Þrjótur gæti hafa haft til hnífs og skeiðar með því að vinna sem þjófur fyrir gildi eða sýnt listir sínar sem hirðfífl.
 
 Bakgrunnurinn segir til um hvernig persónan passar inn í söguna. Mikilvægasta spurningin er - _hvað breyttist_? Af hverju hætti persónan að gera það sem bakgrunnurinn segir til um og byrjaði á ævintýramennsku? Hvaðan kom peningurinn sem hún notaði til að kaupa útbúnaðinn sinn, og ef fjölskylda hennar er rík, hvers vegna hefur persónan ekki meira á milli handanna? Hvað fær persónuna til að skera sig úr meðal annarra sem hafa sama bakgrunn?
 
