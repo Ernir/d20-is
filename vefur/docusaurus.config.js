@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'd20 á íslensku',
-  tagline: 'Á íslensku má alltaf finna svar',
+  tagline: 'Fyrir hópa sem vilja spila spunaspil á ástkæra ylhýra',
   url: 'https://ernir.github.io',
   baseUrl: '/d20-is/',
   onBrokenLinks: 'throw',
@@ -70,7 +70,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Tengt efni',
+            title: 'Tengt efni á íslensku',
             items: [
               {
                 label: 'Orðasafn íslenskra spunaspilara - Google Sheet',
@@ -81,6 +81,15 @@ const config = {
                 href: 'http://ordasafnspunaspilara.info/',
               }
             ],
+          },
+          {
+            title: 'd20 á ensku',
+            items: [
+              {
+                label: 'd20 kerfisvísunin á ensku',
+                href: 'https://5e.d20srd.org/'
+              }
+            ]
           }
         ],
         copyright: `Höfundarréttur © ${new Date().getFullYear()} Eiríkur Ernir Þorsteinsson`,
