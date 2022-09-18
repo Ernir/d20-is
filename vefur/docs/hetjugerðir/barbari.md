@@ -2,6 +2,36 @@
 
 (e. _Barbarian_)
 
+## Heilsa
+
+**Heilsuteningur:** 1d12 fyrir hvert barbarastig
+
+**Heilsa á 1. stigi:** 12 + hreystibreyta þín
+
+**Heilsa á hærri stigum:** 1d12 (eða 7) + hreystibreyta þín fyrir hvert barbarastig eftir hið fyrsta.
+
+## Hæfni
+
+**Vopn:** Einföld vopn, hernaðarvopn
+
+**Verjur:** Léttar brynjur, miðlungsbrynjur, skildir
+
+**Áhöld:** Engin
+
+**Varnarköst:** Styrkur, hreysti
+
+**Kunnátta:** Veldu tvö af dýrahaldi (e. _animal handling_), íþróttum (e. _athletics_), ógnun (e. _intimidation_), náttúrufræði (e. _nature_), eftirtektarsemi (e. _perception_), og útivit (e. _survival_).
+
+## Útbúnaður
+
+Þú byrjar með eftirfarandi útbúnað, til viðbótar við þann sem kemur frá bakgrunninum:
+
+* (a) meginöxi (e. _greataxe_) eða (b) hernaðarvopn að eigin vali
+* (a) tvær handaxir eða (b) einfalt vopn að eigin vali
+* Landkönnuðarpakka og fjögur kastspjót (e. _javelin_)
+
+## Tafla: Barbarinn
+
 | Stig | Hæfnibónus | Einkenni                     | Bræðisköst | Skaði í bræði |
 |:----:|:----------:|:-----------------------------|:----------:|:-------------:|
 | 1.   | +2         | Bræði, verjulausar varnir    | 2          | +2            |
@@ -24,32 +54,6 @@
 | 18.  | +6         | Óslítandi styrkur            | 6          | +4            |
 | 19.  | +6         | Hæfileikaaukning             | 6          | +4            |
 | 20.  | +6         | Fítonskraftur                | Ótakmörkuð | +4            |
-
-## Heilsa
-
-**Heilsuteningur:** 1d12 fyrir hvert barbarastig
-
-**Heilsa á 1. stigi:** 12 + hreystibreyta þín
-
-**Heilsa á hærri stigum:** 1d12 (eða 7) + hreystibreyta þín fyrir hvert barbarastig eftir hið fyrsta.
-
-## Hæfni
-
-**Vopn:** Einföld vopn, hernaðarvopn
-
-**Verjur:** Léttar brynjur, miðlungsbrynjur, skildir
-
-**Áhöld:** Engin
-
-**Kunnátta:** Veldu tvö af dýrahaldi (e. _animal handling_), íþróttum (e. _athletics_), ógnun (e. _intimidation_), náttúrufræði (e. _nature_), eftirtektarsemi (e. _perception_), og útivit (e. _survival_).
-
-## Útbúnaður
-
-Þú byrjar með eftirfarandi útbúnað, til viðbótar við þann sem kemur frá bakgrunninum:
-
-* (a) meginöxi (e. _greataxe_) eða (b) hernaðarvopn að eigin vali
-* (a) tvær handaxir eða (b) einfalt vopn að eigin vali
-* Landkönnuðarpakka og fjögur kastspjót (e. _javelin_)
 
 ## Einkenni
 
