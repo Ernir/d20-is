@@ -35,7 +35,9 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          routeBasePath: '/'
         },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -53,12 +55,6 @@ const config = {
           src: 'img/book.png',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Bókin',
-          },
           {
             href: 'https://github.com/Ernir/d20-is',
             label: 'GitHub',
