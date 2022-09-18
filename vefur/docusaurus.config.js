@@ -84,6 +84,10 @@ const config = {
               {
                 label: 'd20 kerfisvísunin á ensku',
                 href: 'https://5e.d20srd.org/'
+              },
+              {
+                label: 'd20 kerfisleyfið (OGL)',
+                href: 'https://5e.d20srd.org/ogl.htm'
               }
             ]
           }

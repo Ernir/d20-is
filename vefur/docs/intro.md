@@ -11,7 +11,7 @@ Hér getur að líta fimmtu útgáfu d20 kerfisins á íslensku, fyrir hópa sem
 
 [d20 kerfisvísunin](https://5e.d20srd.org/) (e. _d20 system reference document_) sem gefin hefur verið út með opnu leyfi er þýdd úr ensku. Lokamarkmið þessa verkefnis er að þýða alla kerfisvísunina.
 
-Athugið þó að kerfisvísunin er ekki nægileg til að hefja leik ein og sér. d20 kerfið sem hér er þýtt er byggt á fimmtu útgáfu Dungeons & Dragons hlutverkaspilsins, sem er í eigu fyrirtækisins Wizards of the Coast. Nokkrum lykilhlutum þess spils, t.d. reglum um persónusköpun, er vísvitandi sleppt úr kerfisvísuninni. Bækurnar, sem ekki hafa verið þýddar á íslensku, eru enn nauðsynlegar til að fá heildstæða mynd af reglunum.
+Athugið þó að kerfisvísunin er ekki nægileg til að hefja leik ein og sér. d20 kerfið sem hér er þýtt er byggt á fimmtu útgáfu Dungeons & Dragons hlutverkaspilsins, sem er í eigu fyrirtækisins Wizards of the Coast. Nokkrum lykilhlutum þess spils, t.d. reglum um persónusköpun, er vísvitandi sleppt úr kerfisvísuninni. Bækurnar, sem ekki hafa verið þýddar á íslensku, eru enn nauðsynlegar til að fá heildstæða mynd af reglunum. Sjá einnig [OGL kerfisleyfið](https://5e.d20srd.org/ogl.htm).
 
 Hér er markmiðið því ekki að setja fram sjálfstætt hlutverkaspil, heldur að hjálpa reyndum íslenskum spunaspilurum að halda spil sín á íslensku með því að setja fram heildstæða þýðingu á grunnhugtökum.
 
