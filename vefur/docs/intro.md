@@ -3,46 +3,26 @@ sidebar_position: 1
 slug: /
 ---
 
-# Tutorial Intro
+# d20 á íslensku
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Hér getur að líta fimmtu útgáfu d20 kerfisins á íslensku, fyrir hópa sem vilja spila spunaspil á ástkæra ylhýra.
 
-## Getting Started
+## Hvað má finna hér?
 
-Get started by **creating a new site**.
+[d20 kerfisvísunin](https://5e.d20srd.org/) (e. _d20 system reference document_) sem gefin hefur verið út með opnu leyfi er þýdd úr ensku. Lokamarkmið þessa verkefnis er að þýða alla kerfisvísunina.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Athugið þó að kerfisvísunin er ekki nægileg til að hefja leik ein og sér. d20 kerfið sem hér er þýtt er byggt á fimmtu útgáfu Dungeons & Dragons hlutverkaspilsins, sem er í eigu fyrirtækisins Wizards of the Coast. Nokkrum lykilhlutum þess spils, t.d. reglum um persónusköpun, er vísvitandi sleppt úr kerfisvísuninni. Bækurnar, sem ekki hafa verið þýddar á íslensku, eru enn nauðsynlegar til að fá heildstæða mynd af reglunum.
 
-### What you'll need
+Hér er markmiðið því ekki að setja fram sjálfstætt hlutverkaspil, heldur að hjálpa reyndum íslenskum spunaspilurum að halda spil sín á íslensku með því að setja fram heildstæða þýðingu á grunnhugtökum.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Hvaðan koma þýðingarnar?
 
-## Generate a new site
+Uppruna flestra hugtakanna má rekja til [Orðasafns íslenskra spunaspilara](https://docs.google.com/spreadsheets/d/1-k4bClHJhkCKrDG0jxg8KKn81oqiOGXaJHhjZ9cFH2c/edit#gid=0), töfluskjals þar sem þýðingum á spunaspilstengdum orðum hefur verið safnað frá íslenska spunaspilssamfélaginu um árabil.
 
-Generate a new Docusaurus site using the **classic template**.
+Eðli málsins samkvæmt leiðir hópsöfnun sem slík til þess að margar góðar þýðingar verða til á flestum hugtökum. Hér hefur "ritstjóri" verkefnisins handvalið þýðingar úr sarpinum.
 
-The classic template will automatically be added to your project after you run the command:
+## Hvernig get ég lagt hönd á plóg?
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+Þýðingarnar má finna á einföldu, tölvutæku Markdown-sniði á [Github](https://github.com/Ernir/d20-is) síðu verkefnisins, þar sem þeim má breyta að vild. Viðbætur og lagfæringar eru vel þegnar.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Eiríkur Ernir Þorsteinsson sér um vefinn, hægt er að hafa samband á e.ernir@gmail.com.
