@@ -1,7 +1,8 @@
 {
-  "label": "Tutorial - Extras",
+  "label": "Hetjugerðir",
   "position": 3,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "Hinar ýmsu gerðir persóna sem hægt er að spila og reglur sem snúa að þeim"
   }
 }
