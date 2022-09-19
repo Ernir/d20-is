@@ -151,8 +151,8 @@ Valdssvið lífsins einblínir á jákvæða orku - eina af grunnkröftum alheim
 |:----------:|:---------------------------------|
 | 1.         | Blessun, sárabót                 |
 | 3.         | Smáendurheimt, vopn andans       |
-| 5.         | Vonarglampi, endurlífgun         |
-| 7.         | Dauðagarður, verndari trúarinnar |
+| 5.         | Vonarviti, endurlífgun           |
+| 7.         | Nábrynja, verndari trúarinnar    |
 | 9.         | Fjöldasárabót, upprisa holdsins  |
 
 ### Viðbótarhæfni
