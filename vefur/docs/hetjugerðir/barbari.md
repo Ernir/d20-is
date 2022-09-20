@@ -20,7 +20,7 @@
 
 **Varnarköst:** Styrkur, hreysti
 
-**Kunnátta:** Veldu tvö af dýrahaldi (e. _animal handling_), íþróttum (e. _athletics_), ógnun (e. _intimidation_), náttúrufræði (e. _nature_), eftirtektarsemi (e. _perception_), og útivit (e. _survival_).
+**Kunnátta:** Veldu tvö af dýrahaldi (e. _animal handling_), íþróttum (e. _athletics_), ógnun (e. _intimidation_), náttúrufræði (e. _nature_), athyglisgáfu (e. _perception_), og viðlegufærni (e. _survival_).
 
 ## Útbúnaður
 

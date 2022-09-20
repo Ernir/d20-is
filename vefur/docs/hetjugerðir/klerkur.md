@@ -63,7 +63,7 @@ Sem klerkur hefurðu eftirfarandi einkenni.
 
 ### Galdramáttur
 
-Sem klerkur leiðirðu guðlegan mátt á milli heima, sem veitir þér galdramátt.
+Sem klerkur tengirðu guðleg öfl á milli heima, sem veitir þér galdramátt.
 
 #### Galdrabrögð
 
@@ -79,7 +79,7 @@ Breyta má þeim göldrum sem eru undirbúnir þegar þú lýkur langri hvíld. 
 
 #### Galdrahæfileiki
 
-Galdrahæfileiki þinn fyrir skáldsgaldra er viska. Galdrar þínir koma frá einstökum tenglsum þínum við hið guðlega. Þú notar visku í hvert skipti sem galdur vísar til galdrahæfileika þíns. Viska ákvarðar líka erfiðleikastig varnarkasta gegn klerksgöldrum sem þú beitir og þegar þú þarft að gera með þeim árásarköst.
+Galdrahæfileiki þinn fyrir klerksgaldra er viska. Galdrar þínir koma frá einstökum tenglsum þínum við hið guðlega. Þú notar visku í hvert skipti sem galdur vísar til galdrahæfileika þíns. Viska ákvarðar líka erfiðleikastig varnarkasta gegn klerksgöldrum sem þú beitir og þegar þú þarft að gera með þeim árásarköst.
 
 **Erfiðleikastig varnarkasta gegn göldrum** = hæfnibónus þinn + viskubreyta þín
 
@@ -87,7 +87,7 @@ Galdrahæfileiki þinn fyrir skáldsgaldra er viska. Galdrar þínir koma frá e
 
 #### Galdraathafnir
 
-Þú getur beitt þeim klerksgöldrum sem eru merktir sem athöfn sem athöfn.
+Þú getur beitt þeim klerksgöldrum sem eru merktir sem athöfn sem athöfn ef þú hefur undirbúið galdurinn.
 
 #### Galdrafókus
 
