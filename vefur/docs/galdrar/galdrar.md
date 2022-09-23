@@ -15,6 +15,21 @@
 
 **Æðri hringir.** Þegar þú beitir þessum galdri með því að nota 2. hrings galdrahólf eða æðra geturðu blessað eina veru til viðbótar fyrir hvern hring umfram hinn fyrsta.
 
+## Drep
+
+(e. _Blight_)
+
+| **4. hrings námögnun**    |            |
+| ------------------------: | :----------|
+| Beitingartími             | 1 aðgerð   |
+| Drægni                    | 9 metrar   |
+| Þættir                    | R, H       |
+| Ending                    | Samstundis |
+
+Náorka flæðir yfir veru að þínu vali innan færis og dregur úr henni vökva og þrótt. Veran tekur 8d8 náskáða (e. _necrotic damage_), eða helmingi minna ef hún nær hreystivarnarkasti. Þessi galdur hefur engin áhrif á hin lifandi dauðu eða gerviverur. Galdraplöntur og plöntuverur þurfa að kljást við mótbyr á varnarkastinu, og galdurinn gerir hámarksskaða gegn þeim. Ef þú beinir þessum galdri gegn tré sem ekki er vera, t.d. tré eða runna, fær hún ekki að kasta varnarkasti, hún visnar bara og deyr.
+
+**Æðri hringir.** Þegar þú beitir þessum galdri með því að nota 5. hrings galdrahólf eða æðra eykst galdurinn um 1d8 fyrir hvern hring umfram hinn fjórða.
+
 ## Endurlífgun
 
 (e. _Revivify_)
@@ -43,6 +58,34 @@ Bylgja lækningarmátts streymir frá punkti sem þú velur innan færis. Veldu 
 
 **Æðri hringir.** Þegar þú beitir þessum galdri með því að nota 6. hrings galdrahólf eða æðra eykst heilsa veranna um 1d8 til viðbótar fyrir hvern hring umfram hinn fimmta.
 
+## Hillingar
+
+(e. _Hallucinatory terrain_)
+
+| **4. hrings sjónhverfing**  |                                                 |
+| --------------------------: | :-----------------------------------------------|
+| Beitingartími               | 10 mínútur                                      |
+| Drægni                      | 90 metrar                                       |
+| Þættir                      | R, H, E (steinn, sprek og ögn af grænni plöntu) |
+| Ending                      | Samstundis                                      |
+
+Þú lætur náttúrulega landslagið innan tenings sem er 45 metrar á kant líkjast feni, hæðum, sprungu, eða öðru erfiðu eða illfæru landslagi. Tjörn gæti verið látin líkjast grasi vöxnu engi, stórgrýtt gil eins og beinn og breiður vegur. Útlit mannvirkja, útbúnaðar og vera innan áhrifasvæðisins breytist ekki.
+
+Áþreifanlegir eiginleikar landslagsins breytast ekki, svo verur sem fara inn á svæðið eru líkleg til að taka eftir sjónhverfingunni. Ef munurinn er ekki augljós öllum sem snerta landslagið geta verur sem reyna greindarkast (athugun) með erfiðleikastig jafnt erfiðleikastigi varnarkasta gegn göldrum þínum til að sjá í gegnum sjónhverfinguna. Verur sem sjá í gegnum sjónhverfinguna sér hana sem óljósar myndir ofan á landsslaginu.
+
+## Hulduskref
+
+(e. _Misty step_)
+
+| **2. hrings framköllun** |              |
+| -----------------------: | :------------|
+| Beitingartími            | 1 aukaaðgerð |
+| Drægni                   | Eigin        |
+| Þættir                   | R            |
+| Ending                   | Samstundis   |
+
+Þú umlykst silfraðri þoku í andartak og fjarflyst allt að 9 metra, í lausan reit sem þú getur séð.
+
 ## Nábrynja
 
 (e. _Death ward_)
@@ -60,6 +103,34 @@ Bylgja lækningarmátts streymir frá punkti sem þú velur innan færis. Veldu 
 
 Ef galdurinn er í gangi þegar veran verður fyrir áhrifum sem myndu drepa hana á staðnum án þess að gera skaða eru áhrifin þess í stað ómerkt hvað veruna varðar og galdrinum lýkur.
 
+## Orkuþol
+
+(e. _Protection from energy)
+
+| **3. hrings afboðun**  |                                 |
+| ---------------------: | :-------------------------------|
+| Beitingartími          | 1 aðgerð                        |
+| Drægni                 | Snerting                        |
+| Þættir                 | R, H                            |
+| Ending                 | Einbeiting, allt að klukkustund |
+
+Þú snertir samþykka veru og veitir henni þol gegn einni gerð skaða að þínu vali meðan á galdrinum varir. Þú mátt velja úr þoli gegn sýru, eldi, þrumum eða eldingum.
+
+## Sannsýni
+
+(e. _True seeing_)
+
+| **6. hrings spádómur**    |                                                     |
+| ------------------------: | :---------------------------------------------------|
+| Beitingartími             | 1 klukkustund                                       |
+| Drægni                    | Snerting                                            |
+| Þættir                    | R, H, M (augnsmyrsl sem kostar 25 GP og eyðist upp) |
+| Ending                    | 1 klukkustund                                       |
+
+Galdurinn veitir samþykkri veru hæfileikann til að sjá alla hluti eins og þeir eru. Meðan á galdrinum varir er veran gætt sannsýni, sér dyr sem hafa verið duldar með göldrum, og sér inn á eteríska tilvistarstigið (e. _ethereal plane_) innan 36 metra.
+
+Augnsmyrslið er úr sveppadufti, saffrani og fitu.
+
 ## Sárabót
 
 (e. _Cure wounds_)
@@ -75,6 +146,36 @@ Heilsa einnar veru sem þú snertir batnar um 1d8 + galdrahæfileikabreytu þín
 
 **Æðri hringir.** Þegar þú beitir þessum galdri með því að nota 2. hrings galdrahólf eða æðra eykst heilsa verunnar um 1d8 til viðbótar fyrir hvern hring umfram hinn fyrsta.
 
+## Skordýraplága
+
+(e. _Insect plague_)
+
+| **5. hrings framköllun**  |                                 |
+| ------------------------: | :-------------------------------|
+| Beitingartími             | 1 aðgerð                        |
+| Drægni                    | 90 metrar                       |
+| Þættir                    | R, H, E                         |
+| Ending                    | Einbeiting, allt að tíu mínútum |
+
+Mannýgur engisprettusveimur fyllir hvelfingu með 7.5 metra radíus með miðju í staðsetningu að eigin vali. Hvelfingin getur beygt fyrir horn. Hvelfingin helst meðan galdrinum varir, og byrgir sýn að nokkru leyti (e. _area is lightly obscured_). Svæðið innan hvelfingarinnar telst erfitt yfirferðar (e. _difficult terrain_). 
+
+Þegar engispretturnar birtast þarf hver vera innan svæðisins að ná hreystivarnarkasti. Vera fær 4d10 í stunguskaða ef hún nær kastinu ekki, eða helming þess ef hún nær því. Verur þurfa líka að ná sama varnarkasti þegar hún fer inn í hvelfinguna í fyrsta sinn í hverri umferð, og ef hún lýkur umferð sinni innan hvelfingarinnar.
+
+**Æðri hringir.** Þegar þú beitir þessum galdri með því að nota 6. hrings galdrahólf eða æðra eykst skaði galdursins um 1d10 til viðbótar fyrir hvern hring umfram hinn fimmta.
+
+## Sköpun vots og þurrs
+
+(e. _Create food and water_)
+
+| **3. hrings framköllun**  |              |
+| ------------------------: | :------------|
+| Beitingartími             | 1 aðgerð     |
+| Drægni                    | 9 metrar     |
+| Þættir                    | R, H         |
+| Ending                    | Samstundis   |
+
+Þú skapar 20 kg af mat og 90 lítra af vatni á jörðinni eða í ílátum innan færis, nóg til að halda fimmtán mannverum eða fimm reiðskjótum á fóðrum í sólarhring. Maturinn er ómerkilegur en næringarríkur, og skemmist ef hann er ekki kláraður innan sólarhrings. Vatnið er hreint og skemmist ekki.
+
 ## Smáendurheimt
 
 (e. _Lesser restoration_)
@@ -87,6 +188,57 @@ Heilsa einnar veru sem þú snertir batnar um 1d8 + galdrahæfileikabreytu þín
 | Ending                 | Samstundis |
 
 Þú snertir eina veru og læknar hana af einum sjúkdómi eða bindur endi á ein áhrif sem hrjáir hana. Áhrifin geta verið blinda, heyrnarleysi, lömun eða eitrun.
+
+## Steinveggur
+
+(e. _Wall of Stone_)
+
+| **5. hrings áköllun**     |                                 |
+| ------------------------: | :-------------------------------|
+| Beitingartími             | 1 aðgerð                        |
+| Drægni                    | 36 metrar                       |
+| Þættir                    | R, H, E (granítvala)            |
+| Ending                    | Einbeiting, allt að tíu mínútum |
+
+Galdrasnauður (e. _nonmagical_) veggur úr steini sprettur fram á stað sem þú velur innan færis. Veggurinn samanstendur af plötum sem eru 3 metrar á kant og 15 sentímetra þykkar. Hver plata þarf að tengjast annarri plötu. Einnig er hægt að geta plötur sem eru 3 metrar á eina hlið og 6 metrar á aðra, en einungis 7.5 sentímetra þykkar.
+
+Ef veggurinn sneiðir í gegnum reit sem vera er í þegar hann birtist er verunni ýtt til annarrar hliðar veggsins (að þínu vali). Væri vera umkringd veggnum á allar hliðar (eða veggnum og álíka yfirborðum) fær veran að reyna lipurðarvarnarkast. Ef hún nær því getur hún nýtt viðbragð sitt til að hreyfa sig sem nemur hraða síðnum til svo hún sé ekki umkringd veggnum.
+
+Veggurinn má hafa hvaða lögun sem er, en hann má ekki vera á sama reit og vera. Veggurinn þarf ekki að vera lóðréttur, og hann þarf ekki heldur að hvíla á sérstaklega stöðugum undirstöðum. Veggurinn þarf hins vegar að hvíla á og sameinast steini sem þegar var til staðar. Þannig er t.d. hægt að nota þennan galdur til að búa til brú eða stiga.
+
+Ef þú brúar bil sem er meira en 6 metrar þarftu að helminga stærð hverrar plötu til að styðja við. Þú getur gert einfaldar breytingar á lögun, t.d. til að búa til varnarskörð eins og á kastalavegg.
+
+Hægt er að skaða vegginn á sama hátt og annan stein. Hver plata hefur varnarstig upp á 15 og 12 í heilsu fyrir hvern sentímetra þykktar. Nái heilsa plötu 0 er hún eyðilögð, sem gæti líka látið aðliggjandi plötur hrynja, eftir geðþótta stjórnanda.
+
+Ef galdrinum er viðhaldið út einbeintingartímabilið verður hann varanlegur, þá er ekki hægt að afgaldra (e. _dispel_) hann. Að öðrum kosti hverfur veggurinn þegar galdrinum lýkur.
+
+## Sýrupíla
+
+(e. _Acid arrow_)
+
+| **2. hrings áköllun**  |                                         |
+| ---------------------: | :---------------------------------------|
+| Beitingartími          | 1 aðgerð                                |
+| Drægni                 | 27 metrar                               |
+| Þættir                 | R, H, E (Rabbarbaraduft og slöngumagi)  |
+| Ending                 | Samstundis                              |
+
+Glitrandi græn ör skýst að skotmarkinu og springur út sem sýrugusa. Gerðu galdraárás á færi (e. _ranged spell attack) gegn skotmarkinu. Ef þú hittir tekur skotmarkið 4d4 í sýruskaða strax, og 2d4 næst þegar það er búið að gera. Ef þú hittir ekki frussast sýran engu að síður á skotmarkið og gerir helming skaðans strax og engan skaða næst þegar það er búið að gera.
+
+**Æðri hringir.** Þegar þú beitir þessum galdri með því að nota 3. hrings galdrahólf eða æðra eykst skaðinn (bæði upphafsskaðinn og sá sem síðar kemur) um 1d4 fyrir hvern hring umfram annan.
+
+## Tíbrá
+
+(e. _Blur_)
+
+| **2. hrings sjónhverfing** |                                  |
+| -------------------------: | :--------------------------------|
+| Beitingartími              | 1 aðgerð                         |
+| Drægni                     | Eigin                            |
+| Þættir                     | R                                |
+| Ending                     | Einbeiting, allt að einni mínútu |
+
+Líkami þinn verður illgreinilegur, hann sveiflast til og erfitt er að festa á hann auga. Meðan galdrinum varir þurfa andstæðingar þínir að kljást við mótbyr á árásarköstum gegn þér. Óvinir sem ekki reiða sig á sjón eru ónæm fyrir þessum hömlum, t.d. þau sem hafa blindrasjón (e. _blindsight_) eða þau sem sjá í gegnum sjónhverfingar með sannsýni.
 
 ## Upprisa holdsins
 
@@ -153,3 +305,16 @@ Galdurinn veitir von og lífsorku. Veldu hvaða fjölda vera innan færis sem er
 Þú velur birtingarmynd vopnsins. Klerkar guða sem nota einkennandi vopn (t.d. St. Cuthbert er þekktur fyrir kylfu sína og Þór fyrir hamar sinn) láta galdurinn líkjast vopni guðsins.
 
 **Æðri hringir.** Þegar þú beitir þessum galdri með því að nota 3. hrings galdrahólf eða æðra eykst skaði galdursins um 1d8 til viðbótar fyrir hvern hring umfram annan.
+
+## Þöggun
+
+(e. _Silence_)
+
+| **2. hrings sjónhverfing** |                                |
+| -------------------------: | :------------------------------|
+| Beitingartími              | 1 aðgerð                       |
+| Drægni                     | 36 metrar                      |
+| Þættir                     | R, H                           |
+| Ending                     | Einbeiting, allt að 10 mínútum |
+
+Meðan galdrinum varir geta engin hljóð myndast innan eða borist gegnum hvelfingu með 6 metra radíus, sem myndast í kringum stað sem þú velur innan færis. Verur og hlutir sem eru alveg innan hvelfingarinnar eru ónæm fyrir þrumuskaða (e. _thunder damage_), og verur heyra ekkert meðan þær eru innan hennar. Það er ekki hægt að beita galdri sem hefur raddþátt innan hvelfingarinnar.

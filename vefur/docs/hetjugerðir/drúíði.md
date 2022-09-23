@@ -215,7 +215,7 @@ Tengsl þín við landið fylla þig galdramætti. Á 3., 5., 7. og 9. drúíða
 
 | Drúíðastig | Galdrar                     |
 |:----------:|:----------------------------|
-| 3.         | Spegilmynd, þokuskref       |
+| 3.         | Spegilmynd, hulduskref      |
 | 5.         | Tálkn, vatnsgangur          |
 | 7.         | Vatnsstjórnun, ferðafrelsi  |
 | 9.         | Náttúrusamneyti, kuldakeila |
