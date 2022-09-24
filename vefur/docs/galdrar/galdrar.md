@@ -86,6 +86,23 @@ Bylgja lækningarmátts streymir frá punkti sem þú velur innan færis. Veldu 
 
 Þú umlykst silfraðri þoku í andartak og fjarflyst allt að 9 metra, í lausan reit sem þú getur séð.
 
+## Myrkur
+
+(e. _Darkness_)
+
+| **2. hrings áköllun**  |                                                        |
+| ---------------------: | :------------------------------------------------------|
+| Beitingartími          | 1 aðgerð                                               |
+| Drægni                 | 18 metrar                                              |
+| Þættir                 | R, H, E (Leðurblökufeldur og tjörudropi eða kolamoli)  |
+| Ending                 | Einbeiting, allt að 10 mínútum                         |
+
+Galdramyrkur breiðist út frá stað að þínu vali innan færis og fyllir hvelfingu með radíus upp á 4.5 metra. Myrkrið getur beygt fyrir horn. Verur með nætursjón geta ekki séð í gegnum myrkrið, og galdrasnautt ljós getur ekki lýst það upp.
+
+Ef staðurinn sem þú velur er á færanlegum hlut breiðist myrkrið út frá hlutnum og færist með honum. Sé hluturinn hulinn, t.d. með ógegnsærri skál eða hjálmi, stöðvast myrkrið.
+
+Ef áhrifasvæði galdursins skarast við áhrifasvæði ljósgaldurs af 2. hring eða lægri afgaldrast ljósgaldurinn.
+
 ## Nábrynja
 
 (e. _Death ward_)
@@ -258,6 +275,21 @@ Galdurinn læknar líka eitur og sjúkdóma sem ekki eiga rætur sínar að rekj
 Galdurinn læknar banvæn sár en hann getur ekki látið líkamshluta sem vantar vaxið aftur. Ef veruna vantar líkamshluta sem hún getur ekki lifað án - t.d. höfuðið - virkar galdurinn ekki.
 
 Það er mikil þolraun að snúa aftur frá dauðum. Veran fær -4 frádrátt á öll árásarköst, varnarköst og hæfileikaköst sem hún reynir. Í hvert skipti sem hún hvílist um langa hríð minnkar frádrátturinn um 1 þar til hann hverfur.
+
+## Vatnsgangur
+
+(e. _Water walk_)
+
+| **3. hrings umbreyting** |                     |
+| -----------------------: | :------------------ |
+|            Beitingartími | 1 aðgerð            |
+|                   Drægni | 9 metrar            |
+|                   Þættir | R, H, E (Korkbútur) |
+|                   Ending | 1 klukkustund       |
+
+Galdurinn veitir allt að tíu verum innan færis getuna til að ganga á yfirborði vökva eins og um fasta jörð væri að ræða meðan galdrinum varir. Dæmi um vökva eru vatn, sýra, drulla, snjór, kviksyndi og hraun (vera sem gengur á hrauni getur enn tekið skaða vegna hitans).
+
+Ef þú beitir galdrinum á veru sem er þegar á kafi lætur galdurinn hana fljóta 18 metra í átt að yfirborðinu á hverri umferð.
 
 ## Verndari trúarinnar
 
