@@ -168,12 +168,12 @@ Tengsl þín við landið fylla þig galdramætti. Á 3., 5., 7. og 9. drúíða
 
 #### Fen
 
-| Drúíðastig | Galdrar                 |
-| :--------: | :---------------------- |
-|     3.     | Sýrupíla, myrkur        |
-|     5.     | Vatnsgangur, stækjuský  |
-|     7.     | Steinmótun, steinkrápur |
-|     9.     | Skordýraplága, sjónvarp |
+| Drúíðastig | Galdrar                  |
+| :--------: | :----------------------- |
+|     3.     | Sýrupíla, myrkur         |
+|     5.     | Vatnsgangur, stækjuský   |
+|     7.     | Steinmótun, steinskrápur |
+|     9.     | Skordýraplága, sjónvarp  |
 
 #### Fjöll
 
@@ -181,26 +181,26 @@ Tengsl þín við landið fylla þig galdramætti. Á 3., 5., 7. og 9. drúíða
 | :--------: | :------------------------- |
 |     3.     | Köngulóarfet, þyrnivöxtur  |
 |     5.     | Þrumufleygur, steinsmokrun |
-|     7.     | Steinmótun, steinkrápur    |
+|     7.     | Steinmótun, steinskrápur   |
 |     9.     | Álfahurð, kraftveggur      |
 
 #### Graslendi
 
-| Drúíðastig | Galdrar                   |
-| :--------: | :------------------------ |
-|     3.     | Ósýnileiki, fótsporsleysi |
-|     5.     | Dagsljós, hröðun          |
-|     7.     | Spádómur, ferðafrelsi     |
-|     9.     | Draumur, skordýraplága    |
+| Drúíðastig | Galdrar                |
+| :--------: | :--------------------- |
+|     3.     | Ósýnileiki, sporleysi  |
+|     5.     | Dagsljós, hröðun       |
+|     7.     | Spádómur, ferðafrelsi  |
+|     9.     | Draumur, skordýraplága |
 
 #### Heimskaut
 
-| Drúíðastig | Galdrar                      |
-| :--------: | :--------------------------- |
-|     3.     | Heljargreipar, fótsporsleysi |
-|     5.     | Slydda, hömlun               |
-|     7.     | Haglél, ferðafrelsi          |
-|     9.     | Náttúrusamneyti, kuldakeila  |
+| Drúíðastig | Galdrar                     |
+| :--------: | :-------------------------- |
+|     3.     | Heljargreipar, sporleysi    |
+|     5.     | Slydda, hömlun              |
+|     7.     | Haglél, ferðafrelsi         |
+|     9.     | Náttúrusamneyti, kuldakeila |
 
 #### Skógur
 
