@@ -32,28 +32,28 @@
 
 ## Tafla: Drúíðinn
 
-| Stig | Hæfnib.    | Einkenni                             | Brögð | 1.  | 2.  | 3.  | 4.  | 5.  | 6.  | 7.  | 8.  | 9.  |
-|:----:|:----------:|:-------------------------------------|:-----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1.   | +2         | Galdramáttur, drúíðamál              | 3     | 2   | -   | -   | -   | -   | -   | -   | -   | -   | 
-| 2.   | +2         | Skepnulíki, drúíðasamfélag           | 3     | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 3.   | +2         | -                                    | 3     | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
-| 4.   | +2         | Betra skepnulíki, hæfileikaaukning   | 3     | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
-| 5.   | +3         | -                                    | 3     | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
-| 6.   | +3         | Einkenni drúíðasamfélags             | 3     | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
-| 7.   | +3         | -                                    | 3     | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
-| 8.   | +3         | Hæfileikaaukning, betra skepnulíki   | 3     | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
-| 9.   | +4         | -                                    | 4     | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
-| 10.  | +4         | Einkenni drúíðasamfélags             | 4     | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
-| 11.  | +4         | -                                    | 4     | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 12.  | +4         | Hæfileikaaukning                     | 4     | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 13.  | +5         | -                                    | 4     | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-| 14.  | +5         | Einkenni drúíðasamfélags             | 4     | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-| 15.  | +5         | -                                    | 4     | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 16.  | +5         | Hæfileikaaukning                     | 4     | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 17.  | +6         | -                                    | 4     | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18.  | +6         | Eilífur líkami                       | 4     | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19.  | +6         | Hæfileikaaukning                     | 4     | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20.  | +6         | Erkidrúíði                           | 4     | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| Stig | Hæfnib. | Einkenni                           | Brögð | 1.  | 2.  | 3.  | 4.  | 5.  | 6.  | 7.  | 8.  | 9.  |
+| :--: | :-----: | :--------------------------------- | :---: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|  1.  |   +2    | Galdramáttur, drúíðamál            |   3   |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|  2.  |   +2    | Skepnulíki, drúíðasamfélag         |   3   |  3  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|  3.  |   +2    | -                                  |   3   |  4  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|  4.  |   +2    | Betra skepnulíki, hæfileikaaukning |   3   |  4  |  3  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|  5.  |   +3    | -                                  |   3   |  4  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |
+|  6.  |   +3    | Einkenni drúíðasamfélags           |   3   |  4  |  3  |  3  |  -  |  -  |  -  |  -  |  -  |  -  |
+|  7.  |   +3    | -                                  |   3   |  4  |  3  |  3  |  1  |  -  |  -  |  -  |  -  |  -  |
+|  8.  |   +3    | Hæfileikaaukning, betra skepnulíki |   3   |  4  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |
+|  9.  |   +4    | -                                  |   4   |  4  |  3  |  3  |  3  |  1  |  -  |  -  |  -  |  -  |
+| 10.  |   +4    | Einkenni drúíðasamfélags           |   4   |  4  |  3  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |
+| 11.  |   +4    | -                                  |   4   |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  |  -  |
+| 12.  |   +4    | Hæfileikaaukning                   |   4   |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  |  -  |
+| 13.  |   +5    | -                                  |   4   |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  -  |  -  |
+| 14.  |   +5    | Einkenni drúíðasamfélags           |   4   |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  -  |  -  |
+| 15.  |   +5    | -                                  |   4   |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  -  |
+| 16.  |   +5    | Hæfileikaaukning                   |   4   |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  -  |
+| 17.  |   +6    | -                                  |   4   |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  1  |
+| 18.  |   +6    | Eilífur líkami                     |   4   |  4  |  3  |  3  |  3  |  3  |  1  |  1  |  1  |  1  |
+| 19.  |   +6    | Hæfileikaaukning                   |   4   |  4  |  3  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |
+| 20.  |   +6    | Erkidrúíði                         |   4   |  4  |  3  |  3  |  3  |  3  |  2  |  2  |  1  |  1  |
 
 ## Einkenni
 
@@ -101,11 +101,11 @@ Galdrahæfileiki þinn fyrir drúíðagaldra er viska. Galdrar þínir koma frá
 
 Drúíðastigið sem þú hefur náð ákvarðar hvers kyns skepnur þú getur breytt þér í, eins og sjá má á dýrshamstöflunni. Á 2. stigi geturðu t.d. breytt þér í skepnu sem hefur erfiðleikastig 1/4 eða lægra sem hefur hvorki sundhraða (e. _swimming speed_) né flughraða (e. _flying speed_).
 
-| Stig | Hámarks erfiðleikastig | Takmarkanir                   | Dæmi      |
-|:----:|:----------------------:|:-----------------------------:|:---------:|
-| 2.   | 1/4                    | Hvorki flughraði né sundhraði | Úlfur     |
-| 4.   | 1/2                    | Ekki flughraði                | Krókódíll |
-| 8.   | 1                      | -                             | Risaörn   |
+| Stig | Hámarks erfiðleikastig |          Takmarkanir          |   Dæmi    |
+| :--: | :--------------------: | :---------------------------: | :-------: |
+|  2.  |          1/4           | Hvorki flughraði né sundhraði |   Úlfur   |
+|  4.  |          1/2           |        Ekki flughraði         | Krókódíll |
+|  8.  |           1            |               -               |  Risaörn  |
 
 Þú getur verið í líki skepnu í fjölda klukkutíma sem samsvarar hálfu drúíðastigi þínu. Að þeim tíma liðnum breytistu aftur í þitt upprunalega ástand nema þú eyðir annarri notkun eiginleikans. Þú getur endurheimt þitt upphaflega ástand með því að taka aukaaðgerð þegar þú átt að gera. Þú breytist sjálfkrafa aftur ef þú missir meðvitund, ferð niður í 0 heilsu eða deyrð. 
 
@@ -160,65 +160,65 @@ Tengsl þín við landið fylla þig galdramætti. Á 3., 5., 7. og 9. drúíða
 #### Eyðimörk
 
 | Drúíðastig | Galdrar                       |
-|:----------:|:------------------------------|
-| 3.         | Tíbrá, þöggun                 |
-| 5.         | Sköpun vots og þurrs, orkuþol |
-| 7.         | Drep, hillingar               |
-| 9.         | Skordýraplága, steinveggur    |
+| :--------: | :---------------------------- |
+|     3.     | Tíbrá, þöggun                 |
+|     5.     | Sköpun vots og þurrs, orkuþol |
+|     7.     | Drep, hillingar               |
+|     9.     | Skordýraplága, steinveggur    |
 
 #### Fen
 
 | Drúíðastig | Galdrar                 |
-|:----------:|:------------------------|
-| 3.         | Sýrupíla, myrkur        |
-| 5.         | Vatnsgangur, stækjuský  |
-| 7.         | Steinmótun, steinkrápur |
-| 9.         | Skordýraplága, sjónvarp |
+| :--------: | :---------------------- |
+|     3.     | Sýrupíla, myrkur        |
+|     5.     | Vatnsgangur, stækjuský  |
+|     7.     | Steinmótun, steinkrápur |
+|     9.     | Skordýraplága, sjónvarp |
 
 #### Fjöll
 
 | Drúíðastig | Galdrar                    |
-|:----------:|:-------------------------- |
-| 3.         | Köngulóarfet, þyrnivöxtur  |
-| 5.         | Þrumufleygur, steinsmokrun |
-| 7.         | Steinmótun, steinkrápur    |
-| 9.         | Álfahurð, kraftveggur      |
+| :--------: | :------------------------- |
+|     3.     | Köngulóarfet, þyrnivöxtur  |
+|     5.     | Þrumufleygur, steinsmokrun |
+|     7.     | Steinmótun, steinkrápur    |
+|     9.     | Álfahurð, kraftveggur      |
 
 #### Graslendi
 
 | Drúíðastig | Galdrar                   |
-|:----------:|:------------------------- |
-| 3.         | Ósýnileiki, fótsporsleysi |
-| 5.         | Dagsljós, hröðun          |
-| 7.         | Spádómur, ferðafrelsi     |
-| 9.         | Draumur, skordýraplága    |
+| :--------: | :------------------------ |
+|     3.     | Ósýnileiki, fótsporsleysi |
+|     5.     | Dagsljós, hröðun          |
+|     7.     | Spádómur, ferðafrelsi     |
+|     9.     | Draumur, skordýraplága    |
 
 #### Heimskaut
 
 | Drúíðastig | Galdrar                      |
-|:----------:|:---------------------------- |
-| 3.         | Heljargreipar, fótsporsleysi |
-| 5.         | Slydda, hömlun               |
-| 7.         | Haglél, ferðafrelsi          |
-| 9.         | Náttúrusamneyti, kuldakeila  |
+| :--------: | :--------------------------- |
+|     3.     | Heljargreipar, fótsporsleysi |
+|     5.     | Slydda, hömlun               |
+|     7.     | Haglél, ferðafrelsi          |
+|     9.     | Náttúrusamneyti, kuldakeila  |
 
 #### Skógur
 
 | Drúíðastig | Galdrar                     |
-|:----------:|:----------------------------|
-| 3.         | Barkarskrápur, köngulóarfet |
-| 5.         | Eldingamögnun, plöntuvöxtur |
-| 7.         | Spádómur, ferðafrelsi       |
-| 9.         | Náttúrusamneyti, trjáspor   |
+| :--------: | :-------------------------- |
+|     3.     | Barkarskrápur, köngulóarfet |
+|     5.     | Eldingamögnun, plöntuvöxtur |
+|     7.     | Spádómur, ferðafrelsi       |
+|     9.     | Náttúrusamneyti, trjáspor   |
 
 #### Strönd
 
 | Drúíðastig | Galdrar                     |
-|:----------:|:----------------------------|
-| 3.         | Spegilmynd, hulduskref      |
-| 5.         | Tálkn, vatnsgangur          |
-| 7.         | Vatnsstjórnun, ferðafrelsi  |
-| 9.         | Náttúrusamneyti, kuldakeila |
+| :--------: | :-------------------------- |
+|     3.     | Spegilmynd, hulduskref      |
+|     5.     | Tálkn, vatnsgangur          |
+|     7.     | Vatnsstjórnun, ferðafrelsi  |
+|     9.     | Náttúrusamneyti, kuldakeila |
 
 ### Fótspor landsins
 

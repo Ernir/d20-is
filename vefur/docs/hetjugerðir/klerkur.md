@@ -34,28 +34,28 @@
 
 ## Tafla: Klerkurinn
 
-| Stig | Hæfnib.    | Einkenni                                                                   | Brögð | 1.  | 2.  | 3.  | 4.  | 5.  | 6.  | 7.  | 8.  | 9.  |
-|:----:|:----------:|:---------------------------------------------------------------------------|:-----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1.   | +2         | Galdramáttur, guðlegt valdssvið                                            | 3     | 2   | -   | -   | -   | -   | -   | -   | -   | -   | 
-| 2.   | +2         | Beislun hins guðlega (1/hvíld), einkenni valdssviðs                        | 3     | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 3.   | +2         | -                                                                          | 3     | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
-| 4.   | +2         | Hæfileikaaukning                                                           | 4     | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
-| 5.   | +3         | Gröndun hinna lifandi dauðu (ES 1/2)                                       | 4     | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
-| 6.   | +3         | Beislun hins guðlega (2/hvíld)                                             | 4     | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
-| 7.   | +3         | -                                                                          | 4     | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
-| 8.   | +3         | Hæfileikaaukning, Gröndun hinna lifandi dauðu (ES 1), einkenni valdssviðs  | 4     | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
-| 9.   | +4         | -                                                                          | 4     | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
-| 10.  | +4         | Guðleg íhlutun                                                             | 4     | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
-| 11.  | +4         | Gröndun hinna lifandi dauðu (ES 2)                                         | 4     | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 12.  | +4         | Hæfileikaaukning                                                           | 4     | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 13.  | +5         | -                                                                          | 4     | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-| 14.  | +5         | Gröndun hinna lifandi dauðu (ES 3)                                         | 4     | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-| 15.  | +5         | -                                                                          | 4     | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 16.  | +5         | Hæfileikaaukning                                                           | 4     | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 17.  | +6         | Gröndun hinna lifandi dauðu (ES 4), einkenni valdssviðs                    | 4     | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18.  | +6         | Beislun hins guðlega (3/hvíld)                                             | 4     | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19.  | +6         | Hæfileikaaukning                                                           | 4     | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20.  | +6         | Aukin guðleg íhlutun                                                       | 4     | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| Stig | Hæfnib. | Einkenni                                                                  | Brögð | 1.  | 2.  | 3.  | 4.  | 5.  | 6.  | 7.  | 8.  | 9.  |
+| :--: | :-----: | :------------------------------------------------------------------------ | :---: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|  1.  |   +2    | Galdramáttur, guðlegt valdssvið                                           |   3   |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|  2.  |   +2    | Beislun hins guðlega (1/hvíld), einkenni valdssviðs                       |   3   |  3  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|  3.  |   +2    | -                                                                         |   3   |  4  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|  4.  |   +2    | Hæfileikaaukning                                                          |   4   |  4  |  3  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|  5.  |   +3    | Gröndun hinna lifandi dauðu (ES 1/2)                                      |   4   |  4  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |
+|  6.  |   +3    | Beislun hins guðlega (2/hvíld)                                            |   4   |  4  |  3  |  3  |  -  |  -  |  -  |  -  |  -  |  -  |
+|  7.  |   +3    | -                                                                         |   4   |  4  |  3  |  3  |  1  |  -  |  -  |  -  |  -  |  -  |
+|  8.  |   +3    | Hæfileikaaukning, Gröndun hinna lifandi dauðu (ES 1), einkenni valdssviðs |   4   |  4  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |
+|  9.  |   +4    | -                                                                         |   4   |  4  |  3  |  3  |  3  |  1  |  -  |  -  |  -  |  -  |
+| 10.  |   +4    | Guðleg íhlutun                                                            |   4   |  4  |  3  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |
+| 11.  |   +4    | Gröndun hinna lifandi dauðu (ES 2)                                        |   4   |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  |  -  |
+| 12.  |   +4    | Hæfileikaaukning                                                          |   4   |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  |  -  |
+| 13.  |   +5    | -                                                                         |   4   |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  -  |  -  |
+| 14.  |   +5    | Gröndun hinna lifandi dauðu (ES 3)                                        |   4   |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  -  |  -  |
+| 15.  |   +5    | -                                                                         |   4   |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  -  |
+| 16.  |   +5    | Hæfileikaaukning                                                          |   4   |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  -  |
+| 17.  |   +6    | Gröndun hinna lifandi dauðu (ES 4), einkenni valdssviðs                   |   4   |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  1  |
+| 18.  |   +6    | Beislun hins guðlega (3/hvíld)                                            |   4   |  4  |  3  |  3  |  3  |  3  |  1  |  1  |  1  |  1  |
+| 19.  |   +6    | Hæfileikaaukning                                                          |   4   |  4  |  3  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |
+| 20.  |   +6    | Aukin guðleg íhlutun                                                      |   4   |  4  |  3  |  3  |  3  |  3  |  2  |  2  |  1  |  1  |
 
 ## Einkenni
 
@@ -126,12 +126,12 @@ Einu aðgerðirnar sem hún getur tekið er að þjóta (e. _dash_) eða að rey
 Á 5. stigi, þegar lifandi dauðri (e. _undead_) veru misheppnast að ná varnarkasti gegn hæfileika þínum til að buga hin lifandi dauðu er henni þess í stað grandað á staðnum ef áskorunarstig (e. _challenge rating_) verunnar er ekki hærra en ákveðinn þröskuldur sem sjá má á töflunni að neðan:
 
 | Klerksstig | Grandar lifandi dauðum af áskorunarstigi |
-|:----------:| :----------------------------------------|
-| 5.         | 1/2 eða lægra                            |
-| 8.         | 1 eða lægra                              |
-| 11.        | 2 eða lægra                              |
-| 14.        | 3 eða lægra                              |
-| 17.        | 4 eða lægra                              |
+| :--------: | :--------------------------------------- |
+|     5.     | 1/2 eða lægra                            |
+|     8.     | 1 eða lægra                              |
+|    11.     | 2 eða lægra                              |
+|    14.     | 3 eða lægra                              |
+|    17.     | 4 eða lægra                              |
 
 ### Guðleg íhlutun
 
@@ -147,13 +147,13 @@ Valdssvið lífsins einblínir á jákvæða orku - eina af grunnkröftum alheim
 
 ### Valdssviðsgaldrar lífsins
 
-| Klerksstig | Galdrar                          |
-|:----------:|:---------------------------------|
-| 1.         | Blessun, sárabót                 |
-| 3.         | Smáendurheimt, vopn andans       |
-| 5.         | Vonarviti, endurlífgun           |
-| 7.         | Nábrynja, verndari trúarinnar    |
-| 9.         | Fjöldasárabót, upprisa holdsins  |
+| Klerksstig | Galdrar                         |
+| :--------: | :------------------------------ |
+|     1.     | Blessun, sárabót                |
+|     3.     | Smáendurheimt, vopn andans      |
+|     5.     | Vonarviti, endurlífgun          |
+|     7.     | Nábrynja, verndari trúarinnar   |
+|     9.     | Fjöldasárabót, upprisa holdsins |
 
 ### Viðbótarhæfni
 
