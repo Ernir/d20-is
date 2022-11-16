@@ -56,7 +56,7 @@ const config = {
         },
         items: [
           {
-            href: 'https://d20.is',
+            href: 'https://github.com/Ernir/d20-is',
             label: 'GitHub',
             position: 'right',
           },
