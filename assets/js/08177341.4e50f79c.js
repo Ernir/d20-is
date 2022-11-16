@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvefur=self.webpackChunkvefur||[]).push([[791],{5282:r=>{r.exports=JSON.parse('{"title":"Galdrar","description":"Galdrar","slug":"/category/galdrar","permalink":"/category/galdrar","navigation":{"previous":{"title":"Sk\xe1ld","permalink":"/hetjuger\xf0ir/sk\xe1ld"},"next":{"title":"Galdrar","permalink":"/galdrar/"}}}')}}]);
