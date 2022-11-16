@@ -21,6 +21,10 @@ Uppruna flestra hugtakanna má rekja til [Orðasafns íslenskra spunaspilara](ht
 
 Eðli málsins samkvæmt leiðir hópsöfnun sem slík til þess að margar góðar þýðingar verða til á flestum hugtökum. Hér hefur "ritstjóri" verkefnisins handvalið þýðingar úr sarpinum.
 
+## Hver er staða verkefnisins?
+
+Verkefninu er langt því frá lokið. Því er sinnt sem áhugamáli.
+
 ## Hvernig get ég lagt hönd á plóg?
 
 Þýðingarnar má finna á einföldu, tölvutæku Markdown-sniði á [Github](https://github.com/Ernir/d20-is) síðu verkefnisins, þar sem þeim má breyta að vild. Viðbætur og lagfæringar eru vel þegnar.

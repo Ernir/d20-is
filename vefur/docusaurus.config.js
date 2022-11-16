@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'd20 á íslensku',
   tagline: 'Fyrir hópa sem vilja spila spunaspil á ástkæra ylhýra',
-  url: 'https://ernir.github.io',
-  baseUrl: '/d20-is/',
+  url: 'https://d20.is',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/book.png',
@@ -56,7 +56,7 @@ const config = {
         },
         items: [
           {
-            href: 'https://github.com/Ernir/d20-is',
+            href: 'https://d20.is',
             label: 'GitHub',
             position: 'right',
           },
