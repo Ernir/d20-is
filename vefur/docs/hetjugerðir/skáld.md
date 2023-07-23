@@ -33,28 +33,28 @@
 
 ## Tafla: Skáldið
 
-| Stig | Hæfnib. | Einkenni                               | Brögð | Galdraþekking/hólf | 1.  | 2.  | 3.  | 4.  | 5.  | 6.  | 7.  | 8.  | 9.  |
-| :--: | :-----: | :------------------------------------- | :---: | :----------------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|  1.  |   +2    | Galdramáttur, innblástur (d6)          |   2   |         4          |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-|  2.  |   +2    | Þúsundþjalasmiður, heilunarsöngur (d6) |   2   |         5          |  3  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-|  3.  |   +2    | Listaskóli, sérhæfing                  |   2   |         6          |  4  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-|  4.  |   +2    | Hæfileikaaukning                       |   3   |         7          |  4  |  3  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-|  5.  |   +3    | Innblástur (d8), ritstífluleysi        |   3   |         8          |  4  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |
-|  6.  |   +3    | Mótspilun, skólaeinkenni               |   3   |         9          |  4  |  3  |  3  |  -  |  -  |  -  |  -  |  -  |  -  |
-|  7.  |   +3    | -                                      |   3   |         10         |  4  |  3  |  3  |  1  |  -  |  -  |  -  |  -  |  -  |
-|  8.  |   +3    | Hæfileikaaukning                       |   3   |         11         |  4  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |
-|  9.  |   +4    | Heilunarsöngur (d8)                    |   3   |         12         |  4  |  3  |  3  |  3  |  1  |  -  |  -  |  -  |  -  |
-| 10.  |   +4    | Innblástur (d10)                       |   3   |         14         |  4  |  3  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |
-| 11.  |   +4    | -                                      |   4   |         15         |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  |  -  |
-| 12.  |   +4    | Hæfileikaaukning                       |   4   |         15         |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  |  -  |
-| 13.  |   +5    | Heilunarsöngur (d10)                   |   4   |         16         |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  -  |  -  |
-| 14.  |   +5    | Leyndardómar galdranna, Skólaeinkenni  |   4   |         18         |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  -  |  -  |
-| 15.  |   +5    | Innblástur (d12)                       |   4   |         19         |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  -  |
-| 16.  |   +5    | Hæfileikaaukning                       |   4   |         19         |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  -  |
-| 17.  |   +6    | Heilunarsöngur (d12)                   |   4   |         20         |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  1  |
-| 18.  |   +6    | Leyndardómar galdranna                 |   4   |         22         |  4  |  3  |  3  |  3  |  3  |  1  |  1  |  1  |  1  |
-| 19.  |   +6    | Hæfileikaaukning                       |   4   |         22         |  4  |  3  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |
-| 20.  |   +6    | Skáldagáfa                             |   4   |         22         |  4  |  3  |  3  |  3  |  3  |  2  |  2  |  1  |  1  |
+| Stig | Hæfnib. | Einkenni                                   | Brögð | Galdraþekking/hólf | 1.  | 2.  | 3.  | 4.  | 5.  | 6.  | 7.  | 8.  | 9.  |
+| :--: | :-----: | :----------------------------------------- | :---: | :----------------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|  1.  |   +2    | Galdramáttur, hetjusöngur, innblástur (d6) |   2   |         4          |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|  2.  |   +2    | Þúsundþjalasmiður, heilunarsöngur (d6)     |   2   |         5          |  3  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|  3.  |   +2    | Listaskóli, sérhæfing                      |   2   |         6          |  4  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|  4.  |   +2    | Hæfileikaaukning                           |   3   |         7          |  4  |  3  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|  5.  |   +3    | Innblástur (d8), ritstífluleysi            |   3   |         8          |  4  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |
+|  6.  |   +3    | Mótspilun, skólaeinkenni                   |   3   |         9          |  4  |  3  |  3  |  -  |  -  |  -  |  -  |  -  |  -  |
+|  7.  |   +3    | -                                          |   3   |         10         |  4  |  3  |  3  |  1  |  -  |  -  |  -  |  -  |  -  |
+|  8.  |   +3    | Hæfileikaaukning                           |   3   |         11         |  4  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |
+|  9.  |   +4    | Heilunarsöngur (d8)                        |   3   |         12         |  4  |  3  |  3  |  3  |  1  |  -  |  -  |  -  |  -  |
+| 10.  |   +4    | Innblástur (d10)                           |   3   |         14         |  4  |  3  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |
+| 11.  |   +4    | -                                          |   4   |         15         |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  |  -  |
+| 12.  |   +4    | Hæfileikaaukning                           |   4   |         15         |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  |  -  |
+| 13.  |   +5    | Heilunarsöngur (d10)                       |   4   |         16         |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  -  |  -  |
+| 14.  |   +5    | Leyndardómar galdranna, Skólaeinkenni      |   4   |         18         |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  -  |  -  |
+| 15.  |   +5    | Innblástur (d12)                           |   4   |         19         |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  -  |
+| 16.  |   +5    | Hæfileikaaukning                           |   4   |         19         |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  -  |
+| 17.  |   +6    | Heilunarsöngur (d12)                       |   4   |         20         |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  1  |
+| 18.  |   +6    | Leyndardómar galdranna                     |   4   |         22         |  4  |  3  |  3  |  3  |  3  |  1  |  1  |  1  |  1  |
+| 19.  |   +6    | Hæfileikaaukning                           |   4   |         22         |  4  |  3  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |
+| 20.  |   +6    | Skáldagáfa                                 |   4   |         22         |  4  |  3  |  3  |  3  |  3  |  2  |  2  |  1  |  1  |
 
 ## Einkenni
 
@@ -94,19 +94,19 @@ Galdrahæfileiki þinn fyrir skáldsgaldra er þokki. Galdrar þínir spretta ú
 
 Þú getur notað hljóðfæri sem fókus fyrir skáldsgaldra þína.
 
-### Innblástur skáldsins
+### Hetjusöngur
 
-Þú getur veitt öðrum innblástum með tónlist eða orðum. Til að gera svo notaðu aukaaðgerð á þinni umferð og velur eina veru aðra en þig sjálf(a/an/t) innan 18 metra sem getur heyrt í þér. Sú vera fær einn innblásturstening, sem er d6.
+Þú getur veitt öðrum innblástur með tónlist eða orðum. Til að gera svo notaðu aukaaðgerð á þinni umferð og velur eina veru aðra en þig sjálf(a/an/t) innan 18 metra sem getur heyrt í þér. Sú vera fær einn innblásturstening, sem er d6.
 
 Einu sinni, innan næstu 10 mínútna, getur veran kastað teningnum og bætt niðurstöðunni við eitt hæfniskast, árásarkast eða varnarkast sem hún gerir. Veran getur beðið þar til hún sér niðurstöðu d20 kastsins, en hún þarf að ákveða áður en stjórnandi lýsir yfir niðurstöðu kastsins. Innblástursteningurinn eyðist við notkun. Hver vera getur aðeins haft einn innblásturstening í einu.
 
-Nota má þennan hæfileika jafn oft og tölugildi þokkabreytu þinnar, að lágmarki einu sinni. Þú endurheimtir notkanirnar þegar þú hefur hvílst um langa hríð.
+Milli hverra langra hvílda má nota þennan hæfileika jafn oft og þokkabreyta þín er há, að lágmarki einu sinni. Þú endurheimtir notkanirnar þegar þú hefur hvílst um langa hríð.
 
 Innblástursteningurinn breytist þegar hærri stigum skáldsins er náð. Teningurinn verður d8 á 5. stigi, d10 á 10. stigi og d12 á 15. stigi.
 
 ### Þúsundþjalasmiður
 
-Þegar 2. stigi er náð geturðu bætt hálfum hæfnibónusnum þínum, námundað niður, á hvaða hæfniskast sem er þar sem hæfnibónusinn er ekki á nú þegar.
+Þegar 2. stigi er náð geturðu bætt hálfum hæfnibónusnum þínum, námundað niður, á hvaða hæfniskast sem er þar sem hæfnibónusinn á ekki nú þegar við.
 
 ### Heilunarsöngur
 
@@ -136,7 +136,7 @@ Viðbótarheilsan breytist þegar hærri stigum er náð, 1d8 á 9. stigi, 1d10 
 
 ### Leyndardómar galdranna
 
-Á 10. stigi hefurðu náð að ræna og rupla galdraþekkingu úr öllum áttum. Veldu tvo galdra af hvaða hetjugerðarlista sem er, þar með talið skáldalistanum. Galdurinn þarf að tilheyra hring sem þú hefur aðgang að, eins og sjá má að skáldatöflunni, eða vera galdrabragð.
+Á 10. stigi hefurðu náð að tileinka þér galdraþekkingu úr ýmsum áttum, hvort sem hún tilheyrði þér upphaflega eða ekki. Veldu tvo galdra af hvaða hetjugerðarlista sem er, þar með talið skáldalistanum. Galdurinn þarf að tilheyra hring sem þú hefur aðgang að, eins og sjá má að skáldatöflunni, eða vera galdrabragð.
 
 Þú meðhöndlar þessa nýju galdra sem skáldsgaldra, þegar er gert ráð fyrir þeim í þeim fjölda galdra sem sýndur er á skáldatöflunni.
 
@@ -144,7 +144,7 @@ Viðbótarheilsan breytist þegar hærri stigum er náð, 1d8 á 9. stigi, 1d10 
 
 ### Skáldagáfa
 
-Á 20. stigi færðu eina notkun af innblástur skáldsins aftur þegar kastað er upp á snerpu þegar þú átt engar notkanir eftir.
+Á 20. stigi geturðu notað hetjusöng einu sinni til viðbótar þó þú eigir engar notkanir eftir þegar kastað er upp á snerpu.
 
 ## Skóli Sagnaritunarinnar
 
